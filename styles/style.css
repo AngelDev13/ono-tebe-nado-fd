@@ -127,8 +127,8 @@ header {
   flex-direction: column;
   width: 1052px;
   height: 723px;
-  margin-top: 182px;
-  margin-bottom: 118px;
+  margin-top: 173px;
+  margin-bottom: 125px;
   margin-left: 24px;
   margin-right: 24px;
   background-color: white;
@@ -228,8 +228,9 @@ header {
   line-height: 100%;
   letter-spacing: 0%;
   color: black;
+  margin-top: 30px ;
   margin-left: 40px;
-  margin-top: auto; 
+  margin-bottom: 0;
 }
 
 .about {
@@ -319,7 +320,6 @@ footer {
 .footer__menu-list {
   list-style: none;
   text-align: center;
-  line-height: 24.3px;
   width: 164px;
   margin: 0;
   padding: 0;
