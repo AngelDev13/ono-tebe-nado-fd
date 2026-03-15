@@ -151,7 +151,7 @@ header {
   flex-wrap: wrap;         
   list-style: none;
   padding: 0;     
-  margin-top: 24px;
+  margin-top: 22px;
 }
 
 .lots__card-list-item {
@@ -277,7 +277,7 @@ header {
   letter-spacing: 0%;
   text-transform: uppercase;
   color: black;
-  margin: 0 0 100px 0;
+  margin: 0 0 98px 0;
 }
 
 .about__text {
@@ -309,7 +309,7 @@ footer {
 .address_footer {
   font-style: normal;
   width: 265px;
-  line-height: 24.3px;
+  line-height: 24px;
 }
 
 .footer__item-link-active{
