@@ -127,7 +127,10 @@ header {
   flex-direction: column;
   width: 1052px;
   height: 723px;
-  margin: 180px auto;
+  margin-top: 180px;
+  margin-bottom: 118px;
+  margin-left: 24px;
+  margin-right: 24px;
   background-color: white;
 }
 
@@ -235,7 +238,9 @@ header {
   width: 1052px;
   height: 595px;
   background-color:white;
-  margin: 118px auto;                       
+  margin-top: 0; 
+  margin-left: 24px;
+  margin-right: 24px;                      
 }
 
 .about__logo-container {
