@@ -3,8 +3,8 @@ header {
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
   width: 1100px;
-  margin-top: 100px;
-  margin-bottom: 100px;
+  margin-top: 95px;
+  margin-bottom: 95px;
 }
 
 .header__links-list {
@@ -161,6 +161,7 @@ header {
 .lots__card-list {
   display: flex;        
   gap: 25px;   
+  height: 596px;
   flex-wrap: wrap;         
   list-style: none;
   padding: 0;     
