@@ -3,8 +3,8 @@ header {
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
   width: 1100px;
-  margin-top: 95px;
-  margin-bottom: 95px;
+  margin-top: 92px;
+  margin-bottom: 92px;
 }
 
 .header__links-list {
@@ -311,7 +311,7 @@ footer {
   margin-top: 180px;
   padding-left: 50px;
   padding-right: 50px;
-  padding-bottom: 82px;
+  padding-bottom: 92px;
 }
 
 .address_footer {
