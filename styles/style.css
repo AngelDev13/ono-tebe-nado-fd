@@ -132,7 +132,7 @@ header {
   margin-bottom: 127px;
   margin-left: 24px;
   margin-right: 24px;
-  background-color: white;
+  background-color: white; 
 }
 
 .lots__heading {
@@ -238,7 +238,7 @@ header {
   background-color:white;
   margin-top: 0; 
   margin-left: 24px;
-  margin-right: 24px;              
+  margin-right: 24px;           
 }
 
 .about__logo-container {
@@ -307,7 +307,7 @@ footer {
   margin-top: 180px;
   padding-left: 50px;
   padding-right: 50px;
-  padding-bottom: 92px;
+  padding-bottom: 82px;
 }
 
 .address_footer {
