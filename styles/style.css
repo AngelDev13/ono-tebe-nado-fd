@@ -284,14 +284,6 @@ header {
   color: black;
 }
 
-.about__text-top {
-  width: 688px;
-}
-
-.about__text-bottom {
-  width: 693px;
-}
-
 .about__text-group {
   display: flex;
   flex-direction: column;               
